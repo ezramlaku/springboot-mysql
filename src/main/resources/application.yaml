@@ -7,6 +7,6 @@ spring:
   #JPA Settings
   jpa:
     hibernate:
-      ddl-auto: create
+      ddl-auto: update
 
 
